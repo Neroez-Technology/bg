@@ -1,2 +1,7 @@
-# Atlas-Control
-Atrlas-Control for users of the Group
+# BG-Ordner
+Inhalte:
+TeWi
+TeKo
+
+
+Data for users of the Group
