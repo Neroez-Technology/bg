@@ -3,5 +3,8 @@ Inhalte:
 TeWi
 TeKo
 
+#Wichtig
 
-Data for users of the Group
+Einige Java-Projekte (Plotter/MyTurtle) benötigen die Turtle-Library (aplu5.jar) und aufgeführt werden zu können.
+
+Diese Turtle-Library befindet sich unter bg/Quellen
