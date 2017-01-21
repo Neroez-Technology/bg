@@ -1,0 +1,15 @@
+isz | 1
+jmp | 4
+jmp | 8
+dec | 1
+inc | 8
+inc | 7
+jmp | 1
+isz | 7
+jmp | 11
+stp | 
+dec | 7
+inc | 1
+jmp | 8
+ | 
+ | 
