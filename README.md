@@ -1,5 +1,4 @@
-#Herr Wiegand
-#Funktionierender Workspace in Eclipse-Workspace.zip
+
 
 # BG-Ordner
 Inhalte:
